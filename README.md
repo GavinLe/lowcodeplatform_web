@@ -1,5 +1,3 @@
-# jnpf-web
-
 ## 环境要求
 
 - Node.js 12.8.x+
